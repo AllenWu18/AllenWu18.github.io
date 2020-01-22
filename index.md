@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-## Yulun Wu
-You can use the [editor on GitHub](https://github.com/AllenWu18/wuyulun.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Yulun Wu** received the B.S. degree in management science and engineering from the National University of Defense Technology, Changsha, China, in 2014, where he is currently pursuing the master’s degree with the College of Systems Engineering. His research interests include deep learning and data mining.
 
 ### Markdown
 
